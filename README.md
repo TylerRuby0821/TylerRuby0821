@@ -6,6 +6,7 @@ Here are some ideas to get you started:
 -->
 
 ## I am a Husband, Developer, and Gamer!
+- 🧾 You can check out all my projects on my [Portfolio][portfolio]
 - 🔭 I’m currently working on refining and improving my skills!
 - 🌱 I’m currently focused on Data Structures and Algorithms 😅
 - 🤔 I’m looking for help with persuing my career in Software Development. 
