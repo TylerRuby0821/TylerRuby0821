@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <br />
 
 ##  How to reach me 
-<img align='left' alt='LinkedIn' src=[linkedIn]/>
+<img align='left' alt='LinkedIn' src='https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/LinkedIn.svg'/>
 
 <br />
 <br />
