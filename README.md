@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 <br />
-<img alt="Tylers's GitHub stats" src= 'https://github-readme-stats.vercel.app/api?username=tylerruby0821&theme=dracula'></img>
+<img align ='left' alt="Tylers's GitHub stats" src= 'https://github-readme-stats.vercel.app/api?username=tylerruby0821&theme=dracula%show_icons=true&hide_border=true'></img>
 <br />
 
 [portfolio]: https://tylerruby0821.github.io/
