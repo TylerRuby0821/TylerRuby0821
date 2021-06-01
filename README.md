@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <br />
 
 ##  How to reach me 
-[LinkedIn][linkedIn]
+<img align='left' alt='LinkedIn' src=[linkedIn]/>
 
 <br />
 <br />
