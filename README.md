@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 <br />
-[![Tylers's GitHub stats](https://github-readme-stats.vercel.app/api?username=tylerruby0821&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<img>[![Tylers's GitHub stats](https://github-readme-stats.vercel.app/api?username=tylerruby0821&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)</img>
 <br />
 
 [portfolio]: https://tylerruby0821.github.io/
