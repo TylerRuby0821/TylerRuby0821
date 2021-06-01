@@ -30,13 +30,14 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-## ~ How to reach me ~
+##  How to reach me 
 [LinkedIn][linkedIn]
 
+<br />
+<br />
 
-<br />
+## Stats
 <img align ='left' alt="Tylers's GitHub stats" src= 'https://github-readme-stats.vercel.app/api?username=tylerruby0821&theme=dracula%show_icons=true&hide_border=true'></img>
-<br />
 <img align ='left' alt='Tyler language stats' src= 'https://github-readme-stats.vercel.app/api/top-langs/?username=tylerruby0821'></img>
 
 [portfolio]: https://tylerruby0821.github.io/
