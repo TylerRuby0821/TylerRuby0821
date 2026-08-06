@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 
 ##  How to reach me 
 <a href='https://www.linkedin.com/in/tyler-ruby-b700161ba/'><img align='left' height='32px' width='32px' alt='LinkedIn' src='https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg'/></a>
+Email: tylerrubysoftwaredev@yahoo.com
 
 <br />
 <br />
