@@ -1,6 +1,6 @@
 ### Hi, I'm Tyler 👋
 
-Cloud & Full Stack Engineer building infrastructure-as-code, serverless APIs, and full-stack applications. Currently a Cloud Engineer at Fidelity Investments, working across AWS and Azure.
+Cloud & Full Stack Engineer building infrastructure-as-code, serverless APIs, and full-stack applications.
 
 - 🔧 Currently deep in AWS infrastructure and Terraform/Terragrunt workflows
 - 🌱 Sharpening data structures & algorithms on the side
